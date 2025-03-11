@@ -1,6 +1,6 @@
-2048 Game (C Implementation)
+# 2048 Game (C Implementation)
 
-This is a terminal-based implementation of the classic 2048 game written in C.
+### This is a terminal-based implementation of the classic 2048 game written in C.
 Features
 
     Playable in the terminal with intuitive controls
@@ -30,11 +30,13 @@ Controls
 
 How to Play
 
+'''
     The game starts with two tiles (2 or 4) in random positions.
     Use the movement keys to slide all tiles in a direction.
     Tiles of the same value merge when they collide, doubling their value.
     The goal is to create a tile with the value 2048.
     The game ends when there are no valid moves left.
+'''
 
 Notes
 
